@@ -15,7 +15,7 @@
 <div>
     <p><strong>A passionate Front-end developer with basics on Backend and DevOps management.</strong></p>
     <p>🔭 I’m currently working as a TA for my technical degree.</p>
-    <p>🌱 I’m currently learning Typescript, cloud computing, GitLab, and more.</p>
+    <p>🌱 I’m currently learning cloud computing, GitLab, and more.</p>
     <p>👯 I’m looking to collaborate on innovative web projects.</p>
     <p>💬 Ask me about UX design, agile management, Markup Language and Cascading Style Sheets.</p>
     <p>📫 How to reach me: yulianazc02@gmail.com</p>
