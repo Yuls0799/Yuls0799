@@ -1,18 +1,15 @@
 <!-- Title -->
-<img width="480" height="271" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamUzOHdjMXA1bnRzenVzOG9ibzV1dXVoaWJhc2tlcWNwMmx0emMxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="cover" />
-
-<br/>
-
-<h1 align="center"><b>Hi , I'm Yuliana Zorrilla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<br/>
-
-<h4 align="center">A Frontend Developer and a intern in a dev company, see my <a href="https://www.canva.com/design/DAFgxwyPrNc/QcKUExIM8LlwO6mdyQT7QQ/edit?utm_content=DAFgxwyPrNc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">(resume)</a> for more information</h4>
+<div align align="center">
+	<img width="480" height="271" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamUzOHdjMXA1bnRzenVzOG9ibzV1dXVoaWJhc2tlcWNwMmx0emMxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="cover" />
+		<br/>
+	<h1 align="center"><b>Hi , I'm Yuliana Zorrilla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+		<br/>
+	<h4 align="center">A Frontend Developer and a intern in a dev company, see my <a href="https://www.canva.com/design/DAFgxwyPrNc/QcKUExIM8LlwO6mdyQT7QQ/edit?utm_content=DAFgxwyPrNc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">(resume)</a> for more information</h4>
+</div>
 
 <br>
 
 <!-- About me -->
-
 	
 ##  **About me**
 
@@ -27,7 +24,6 @@
     <p>📫 How to reach me: yulianazc02@gmail.com</p>
     <p>⚡ Fun fact: Coffee🧋 makes me more extroverted than my usual self</p>
 </div>
-
 
 <br><br>
 
