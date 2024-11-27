@@ -1,5 +1,5 @@
 <!-- Title -->
-<div align align="center">
+<div align="center">
 	<img width="480" height="271" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamUzOHdjMXA1bnRzenVzOG9ibzV1dXVoaWJhc2tlcWNwMmx0emMxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="cover" />
 		<br/>
 	<h1><b>Hi , I'm Yuliana Zorrilla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
