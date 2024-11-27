@@ -1,7 +1,7 @@
 <!-- Title -->
 
 <h1 align="center"><b>Hi , I'm Yuliana Zorrilla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<img width="100%" height = "250px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamUzOHdjMXA1bnRzenVzOG9ibzV1dXVoaWJhc2tlcWNwMmx0emMxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="cover" />
 <h4 align="center">A Frontend Developer and a intern in a dev company, see my <a href="https://www.canva.com/design/DAFgxwyPrNc/QcKUExIM8LlwO6mdyQT7QQ/edit?utm_content=DAFgxwyPrNc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">(resume)</a> for more information</h4>
 
 <br>
