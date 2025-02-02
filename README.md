@@ -4,7 +4,7 @@
 		<br/>
 	<img width="480" height="271" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamUzOHdjMXA1bnRzenVzOG9ibzV1dXVoaWJhc2tlcWNwMmx0emMxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="cover" />
 		<br/>
-	<h4>A Frontend Developer and a intern in a dev company, see my <a href="https://www.canva.com/design/DAFgxwyPrNc/QcKUExIM8LlwO6mdyQT7QQ/edit?utm_content=DAFgxwyPrNc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">(resume)</a> for more information</h4>
+	<h4>A Frontend Developer and an analyst in a financial company, see my <a href="https://www.canva.com/design/DAFgxwyPrNc/QcKUExIM8LlwO6mdyQT7QQ/edit?utm_content=DAFgxwyPrNc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">(resume)</a> for more information</h4>
 </div>
 
 <br>
@@ -16,12 +16,12 @@
 <br>
 
 <div>
-    <p><strong>A passionate Front-end developer with basics on Backend and DevOps management.</strong></p>
-    <p>🔭 I’m currently working as a TA for my technical degree.</p>
-    <p>🌱 I’m currently learning cloud computing, GitLab, and more.</p>
-    <p>👯 I’m looking to collaborate on innovative web projects.</p>
+    <p><strong>A passionate Front-end developer with great knowledge on SCRUM foundation and basics on Backend and DevOps management.</strong></p>
+    <p>🔭 I’m currently working as Frontend Analyst</p>	
+    <p>🔭 I’ve worked as a TA for my technical degree.</p>
+    <p>🌱 I’m currently learning cloud computing with AWS, frontend and data analysis with IBM, so more.</p>
     <p>💬 Ask me about UX design, agile management, Markup Language and Cascading Style Sheets.</p>
-    <p>📫 How to reach me: yulianazc02@gmail.com</p>
+    <p>📫 How to reach me: yzam0203@gmail.com</p>
     <p>⚡ Fun fact: Coffee🧋 makes me more extroverted than my usual self</p>
 </div>
 
